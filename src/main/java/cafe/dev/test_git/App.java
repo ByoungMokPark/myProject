@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!!-tset version -- new hotfix" );
+        System.out.println( "Hello World!!-tset version" );
+        System.out.println( "Hello World!!-tset version working" );
     }
 }
