@@ -25,6 +25,7 @@ public class AppTest
      */
     public static Test suite()
     {
+    	System.out.println( "Hello World!!-tset version -- new test go" );
         return new TestSuite( AppTest.class );
     }
 
