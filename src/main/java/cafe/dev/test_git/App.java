@@ -22,7 +22,7 @@ public class App
         System.out.println( "test2" );
         System.out.println( "master add commit2 edit1 12" );
         System.out.println( "test1 12" );
-        System.out.println( "test1 12 test master1 2" );
+        System.out.println( "test1 12 test master1 s2" );
     }
    
 }
