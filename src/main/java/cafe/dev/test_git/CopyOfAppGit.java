@@ -4,7 +4,7 @@ package cafe.dev.test_git;
  * Hello world!
  *
  */
-public class AppGit 
+public class CopyOfAppGit 
 {
     public static void main( String[] args )
     {
@@ -15,7 +15,7 @@ public class AppGit
         
         System.out.println( "Hello World!!-tset version working" );
         System.out.println( "Hello World!!-tset version working 123" );
-        System.out.println( "Hello World!!-tset version working 12 3 12121"  );
+        System.out.println( "Hello World!!-tset version working 123 12121"  );
     }
 }
 
