@@ -11,5 +11,7 @@ public class App
         System.out.println( "Hello World!!-tset version" );
         System.out.println( "Hello World!!-tset version" );
         System.out.println( "Hello World!!-tset version -- new test go" );
+        System.out.println( "Hello World!!-tset version working" );
+        System.out.println( "Hello World!!-tset version working 123" );
     }
 }
