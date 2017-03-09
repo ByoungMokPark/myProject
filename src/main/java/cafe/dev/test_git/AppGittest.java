@@ -16,7 +16,7 @@ public class AppGittest
         System.out.println( "Hello World!!-tset version working 1231234k123" );
         System.out.println( "Hello World!!-tset version working 1231234k123" ); 
         System.out.println( "Hello World!!-tset version working 1231234k123" ); 
-        System.out.println( "Hello World!!-tset version working 1231234k12311" ); 
+        System.out.println( "Hello World!!-tset version working 1231234k12311 as" ); 
     }
    
 }
