@@ -17,7 +17,8 @@ public class App
         System.out.println( "Hello World!!-tset version working 1231234k123" ); 
         System.out.println( "Hello World!!-tset version working 1231234k123" ); 
         System.out.println( "Hello World!!-tset version working 1231234k123123 file add 123" );
-        System.out.println( "master add source add testbranch add master ad" ); 
+        System.out.println( "master add source add testbranch add master ad" );
+        System.out.println( "master add commit" );
     }
    
 }
