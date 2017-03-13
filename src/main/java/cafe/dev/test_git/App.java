@@ -21,7 +21,7 @@ public class App
         System.out.println( "master add commit" );
         System.out.println( "test2" );
         System.out.println( "master add commit2 edit1 12" );
-        System.out.println( "test1" );
+        System.out.println( "test1 12" );
     }
    
 }
