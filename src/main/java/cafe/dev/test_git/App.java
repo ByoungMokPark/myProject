@@ -20,7 +20,7 @@ public class App
         System.out.println( "master add source add testbranch add master ad" );
         System.out.println( "master add commit" );
         System.out.println( "master add commit2 edit1 12" );
-        System.out.println("test");
+        System.out.println( "test1" );
     }
    
 }
