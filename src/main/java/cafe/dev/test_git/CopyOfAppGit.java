@@ -17,6 +17,7 @@ public class CopyOfAppGit
         System.out.println( "Hello World!!-tset version working 123" );
         System.out.println( "Hello World!!-tset version working 123 12121 s s d pk"  );
         System.out.println( "add text"  );
+        System.out.println( "add text2"  );
     }
 }
 
